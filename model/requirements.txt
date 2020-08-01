@@ -1,0 +1,11 @@
+PyWavelets==0.5.2
+opencv-python==3.4.10.35
+seaborn==0.10.1
+
+
+
+
+
+
+
+
